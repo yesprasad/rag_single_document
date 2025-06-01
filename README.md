@@ -4,7 +4,7 @@
 
 **KnowledgeAI** is a minimal yet powerful Retrieval-Augmented Generation (RAG) implementation *without* using high-level abstraction libraries like LangChain. Instead, it focuses on building from scratch to understand the **core components** of RAG systems—document chunking, embedding generation, vector storage, and retrieval-based prompting.
 
-**I have intentionally left commented code and comments to showcase how to build the intution and thought process that is needed for building RAG pipelines.**
+🧩 **I have intentionally left commented code and comments to showcase how to build the intution and thought process that is needed for building RAG pipelines.**
 
 This repo is for anyone who:
 - Wants to **learn how RAG pipelines work under the hood**
